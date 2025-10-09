@@ -1,0 +1,14 @@
+//plate
+//bento
+//plate/apple
+//*
+//*/apple
+//*[@id="fancy"]
+//plate/apple
+//*[@id="fancy"]/pickle
+//*[contains(@Class,"small")]
+//orange[contains(@Class,"small")]
+//bento/orange[contains(@Class,"small")]
+//plate|//bento
+//plate/*
+//plate/following-sibling::apple
